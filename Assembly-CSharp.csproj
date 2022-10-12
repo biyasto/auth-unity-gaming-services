@@ -53,6 +53,8 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\NewBehaviourScript.cs" />
+     <Compile Include="Assets\Samples\Authentication\2.2.0\UI Example\FacebookLoginUIExample.cs" />
+     <Compile Include="Assets\Samples\Authentication\2.2.0\UI Example\AnonymousSignInUIExample.cs" />
  <Reference Include="UnityEngine">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
  </Reference>
@@ -276,7 +278,7 @@
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/Managed/UnityEngine/UnityEditor.UnityConnectModule.dll</HintPath>
  </Reference>
  <Reference Include="Newtonsoft.Json">
- <HintPath>C:/Users/ROG/RiderProjects/AuthUGS/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/Newtonsoft.Json.dll</HintPath>
+ <HintPath>C:/Users/ROG/RiderProjects/AuthUGS/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.0.2/Runtime/Newtonsoft.Json.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.iOS.Extensions.Xcode">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/PlaybackEngines/AppleTVSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
@@ -692,14 +694,26 @@
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Users/ROG/RiderProjects/AuthUGS/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
  </Reference>
+ <Reference Include="Unity.Services.Core">
+ <HintPath>C:/Users/ROG/RiderProjects/AuthUGS/Library/ScriptAssemblies/Unity.Services.Core.dll</HintPath>
+ </Reference>
  <Reference Include="Unity.Mathematics">
  <HintPath>C:/Users/ROG/RiderProjects/AuthUGS/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Services.Authentication">
+ <HintPath>C:/Users/ROG/RiderProjects/AuthUGS/Library/ScriptAssemblies/Unity.Services.Authentication.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.IK.Runtime">
  <HintPath>C:/Users/ROG/RiderProjects/AuthUGS/Library/ScriptAssemblies/Unity.2D.IK.Runtime.dll</HintPath>
  </Reference>
+ <Reference Include="Unity.Services.Core.Analytics">
+ <HintPath>C:/Users/ROG/RiderProjects/AuthUGS/Library/ScriptAssemblies/Unity.Services.Core.Analytics.dll</HintPath>
+ </Reference>
  <Reference Include="Unity.2D.Animation.Triangle.Runtime">
  <HintPath>C:/Users/ROG/RiderProjects/AuthUGS/Library/ScriptAssemblies/Unity.2D.Animation.Triangle.Runtime.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Services.Core.Environments">
+ <HintPath>C:/Users/ROG/RiderProjects/AuthUGS/Library/ScriptAssemblies/Unity.Services.Core.Environments.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Animation.Runtime">
  <HintPath>C:/Users/ROG/RiderProjects/AuthUGS/Library/ScriptAssemblies/Unity.2D.Animation.Runtime.dll</HintPath>
