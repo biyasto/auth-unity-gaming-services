@@ -52,7 +52,6 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\NewBehaviourScript.cs" />
      <Compile Include="Assets\Samples\Authentication\2.2.0\UI Example\FacebookLoginUIExample.cs" />
      <Compile Include="Assets\Samples\Authentication\2.2.0\UI Example\AnonymousSignInUIExample.cs" />
  <Reference Include="UnityEngine">
