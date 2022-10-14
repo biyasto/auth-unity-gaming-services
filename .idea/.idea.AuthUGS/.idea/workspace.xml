@@ -6,12 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d9548122-d065-4205-8b22-4ab0b0e20b36" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.AuthUGS/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AuthUGS/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csproj.AssemblyReference.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,13 +16,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.services.authentication@2.2.0/Runtime/Network/WebRequest.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/b4916a936ed0452faeb0c7b14252de0927200/3a/a38b8caf/AccessToken.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.services.authentication@2.2.0/Runtime/IAuthenticationService.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="2G1Peihcp7DKU2WOgi6QzHJB4oa" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -88,6 +78,7 @@
       <workItem from="1665578726646" duration="16000" />
       <workItem from="1665666779530" duration="1727000" />
       <workItem from="1665678286360" duration="1335000" />
+      <workItem from="1665738130499" duration="2723000" />
     </task>
     <task id="LOCAL-00001" summary="Link project to dashboard">
       <created>1665554277173</created>
@@ -124,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665578735500</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="fb sdk">
+      <created>1665738146283</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1665738146283</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,6 +149,7 @@
     <MESSAGE value="Link project to dashboard" />
     <MESSAGE value="basic Anonymous and Facebook Login" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;Assets/Samples/Authentication/2.2.0/UI Example/FacebookLoginUIExample.unity" />
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="fb sdk" />
+    <option name="LAST_COMMIT_MESSAGE" value="fb sdk" />
   </component>
 </project>
